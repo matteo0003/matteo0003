@@ -38,6 +38,10 @@
 <a href="https://threejs.org" target="_blank"><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /></a>
 <a href="https://typestrong.org/ts-node" target="_blank"><img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" /></a>
 <a href="https://classic.yarnpkg.com/lang/en" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></a>
+<a href="https://www.prisma.io" target="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></a>
+<a href="https://eslint.org" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
+<a href="https://prettier.io" target="_blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /></a>
+<a href="https://zod.dev" target="_blank"><img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" /></a>
 
 ### Bases de données
 <a href="https://www.mongodb.com/fr-fr" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
