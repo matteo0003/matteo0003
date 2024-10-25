@@ -61,7 +61,5 @@
 [![matteo0003](https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&theme=transparent&locale=fr)]()
 
 ### Contacts
-<a href="https://discord.gg/NqqtkS7ekj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/fbnJuTC8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:matteo.angoin@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/775654147763601408?idleMessage=Travaille%20durement&showDisplayName=true&)](https://discord.com/users/775654147763601408)
