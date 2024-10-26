@@ -56,9 +56,9 @@
 <a href="https://www.microsoft.com/fr-fr/software-download/windows10%20" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
 
 ### Github stats:
-[![matteo0003](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matteo0003&theme=transparent&locale=fr)]()
+[![matteo0003](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matteo0003&theme=transparent)]()
 
-[![matteo0003](https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&theme=transparent&locale=fr)]()
+[![matteo0003](https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&theme=transparent)]()
 
 ### You can find me here:
 <a href="https://discord.gg/fbnJuTC8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
