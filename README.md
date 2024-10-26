@@ -1,4 +1,4 @@
-# Bonjour ! Je suis Mattéo - aka [matteo0003](https://discord.com/users/775654147763601408)
+# Hello! I'm Mattéo - aka [matteo0003](https://discord.com/users/775654147763601408)
 
 ### Je suis développeur fullstack
 - 🌐 
