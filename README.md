@@ -7,7 +7,7 @@
 - 🎓 I'm a 2nd year student in Computer Science at La Rochelle University
 
 ### Projects:
-- m3fvm: Collection de scripts FiveM
+- m3fvm: FiveM scripts collection
 
 ### Languages:
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
