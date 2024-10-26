@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://www.json.org/json-fr.html" target="_blank"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
-<a href="https://www.latex-project.org" target="_blank"><img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" /></a>
+<a href="https://www.latex-project.org" target="_blank"><img src="![Static Badge](https://img.shields.io/badge/latex-377e7f?style=for-the-badge&logo=latex&logoColor=latex)" /></a>
 <a href="https://www.lua.org" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
 <a href="https://www.typescriptlang.org/fr" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
