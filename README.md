@@ -7,7 +7,7 @@
 - 🎓 Je suis étudiant en 2ème année de licence Informatique
 
 ### Projets
-- Collection de scripts FiveM
+- m3fvm: Collection de scripts FiveM
 
 ### Langages
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
