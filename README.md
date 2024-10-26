@@ -3,8 +3,8 @@
 ### I'm a Discord bot and full-stack developer!
 - 🌐 
 - 📚 
-- 🎮 Je travaille actuellement sur un [serveur FiveM](https://cfx.re/join/p9ge4y)
-- 🎓 Je suis étudiant en 2ème année de licence Informatique
+- 🎮 I'm currently working on a [FiveM server](https://cfx.re/join/p9ge4y)
+- 🎓 I'm a 2nd year student in Computer Science at La Rochelle University
 
 ### Projects:
 - m3fvm: Collection de scripts FiveM
