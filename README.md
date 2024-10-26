@@ -4,7 +4,7 @@
 - 🌐 
 - 📚 
 - 🎮 Je travaille actuellement sur un [serveur FiveM](https://cfx.re/join/p9ge4y)
-- 🎓 Je suis actuellement étudiant en 2ème année de licence Informatique
+- 🎓 Je suis étudiant en 2ème année de licence Informatique
 
 ### Projets
 - Collection de scripts FiveM
