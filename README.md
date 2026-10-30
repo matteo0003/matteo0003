@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://github.com/matteo0003/matteo0003/blob/main/profile-header.svg" width="100%" alt="matteo0003 — Full-stack developer" />
+<img src="https://github.com/matteo0003/matteo0003/blob/main/profile-header.svg" width="100%" alt="matteo0003 — Développeur full-stack" />
 
 <br/><br/>
 
 <a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-matteo0003-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Stack-Full--stack-18181B?style=for-the-badge&labelColor=27272A" alt="Full-stack"/>&nbsp;
-<img src="https://img.shields.io/badge/Focus-Web%20%C2%B7%20Systems-18181B?style=for-the-badge&labelColor=27272A" alt="Web and systems"/>
+<img src="https://img.shields.io/badge/Profil-Full--stack-18181B?style=for-the-badge&labelColor=27272A" alt="Full-stack"/>&nbsp;
+<img src="https://img.shields.io/badge/Focus-Web%20%C2%B7%20Bots%20Discord-18181B?style=for-the-badge&labelColor=27272A" alt="Web et bots Discord"/>
 
 <br/><br/>
 
-### Building things for the web.
+### Je conçois des applications web et des bots Discord.
 
-**Thoughtful interfaces. Reliable systems. Clean code.**
+**Des interfaces soignées. Des systèmes fiables. Du code propre.**
 
 <br/>
 
-[**About**](#01--about) &nbsp;·&nbsp; [**Stack**](#02--tech-stack) &nbsp;·&nbsp; [**Work**](#03--selected-work) &nbsp;·&nbsp; [**Activity**](#04--github-activity) &nbsp;·&nbsp; [**Principles**](#05--principles) &nbsp;·&nbsp; [**Contact**](#06--contact)
+[**À propos**](#01--à-propos) &nbsp;·&nbsp; [**Stack**](#02--stack-technique) &nbsp;·&nbsp; [**Réalisations**](#03--réalisations) &nbsp;·&nbsp; [**Principes**](#04--principes) &nbsp;·&nbsp; [**Contact**](#05--contact)
 
 </div>
 
@@ -24,17 +24,22 @@
 
 ---
 
-## 01 &nbsp;/&nbsp; About
+## 01 &nbsp;/&nbsp; À propos
 
-I'm a full-stack developer interested in building useful, well-crafted digital experiences.
+Je suis développeur full-stack, autodidacte depuis 7 ans : sites web, serveurs de RP FiveM, bots Discord et applications sur mesure. Diplômé d’une licence d’informatique à l’UBO (Brest), je cherche une première expérience en équipe.
 
-I enjoy working across the whole stack, from user interfaces to backend logic and data architecture, while keeping an eye on simplicity, maintainability, and the details that make software feel right.
+J’aime travailler sur toute la chaîne : interfaces, logique serveur, base de données et déploiement. Je fais attention à la simplicité, à la maintenabilité et aux détails qui rendent un logiciel agréable à utiliser.
 
 ```ts
 const matteo = {
-  role: "Full-stack developer",
-  focus: ["Web development", "Software engineering", "Creative coding"],
-  philosophy: "Build with purpose. Keep it simple.",
+  role: "Développeur full-stack",
+  focus: ["Développement web", "Bots Discord", "Bases de données"],
+  niveau: {
+    avance: ["TypeScript", "Node.js", "Nuxt"],
+    intermediaire: ["PHP (Symfony, CodeIgniter)", "SQL"],
+  },
+  langues: ["Français", "Anglais (courant)", "Espagnol (intermédiaire)"],
+  philosophie: "Construire avec un but. Rester simple.",
 } as const;
 ```
 
@@ -42,51 +47,73 @@ const matteo = {
 
 ---
 
-## 02 &nbsp;/&nbsp; Tech stack
+## 02 &nbsp;/&nbsp; Stack technique
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Frontend</h4>
+      <h4>Front-end</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt&theme=light">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt" alt="HTML, CSS, JavaScript, TypeScript, React, Vue and Nuxt" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma&theme=light">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma" alt="HTML, CSS, JavaScript, TypeScript, TailwindCSS, Vue, Nuxt, Vite et Figma" />
       </picture>
       <br/><br/>
-      <sub>Interfaces · Components · Web applications</sub>
+      <sub>Interfaces · Composants · Nuxt UI · Vue Flow · Applications web</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Backend</h4>
+      <h4>Back-end</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,python,lua&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,python,lua&theme=light">
-        <img src="https://skillicons.dev/icons?i=nodejs,bun,python,lua" alt="Node.js, Bun, Python and Lua" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua&theme=light">
+        <img src="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua" alt="Node.js, Bun, TypeScript, JavaScript, PHP, Symfony, CodeIgniter et Lua" />
       </picture>
       <br/><br/>
-      <sub>Runtime · APIs · Application logic</sub>
+      <sub>API · Nitro · Logique applicative · Authentification · Scripts serveur</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Databases</h4>
+      <h4>Bots Discord</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL and SQLite" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord,ts,nodejs,bun&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord,ts,nodejs,bun&theme=light">
+        <img src="https://skillicons.dev/icons?i=discord,ts,nodejs,bun" alt="Discord, TypeScript, Node.js et Bun" />
       </picture>
       <br/><br/>
-      <sub>MariaDB · SQL · Drizzle ORM</sub>
+      <sub>discord.js · Sapphire · Commandes, modération, intégrations</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Tools</h4>
+      <h4>Bases de données</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle&theme=light">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle" alt="PostgreSQL, MySQL, MariaDB, SQLite, Supabase et Drizzle ORM" />
       </picture>
       <br/><br/>
-      <sub>Version control · Development workflow</sub>
+      <sub>SQL · PostgreSQL · MySQL · MariaDB · SQLite · Supabase · Drizzle ORM</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Outils et qualité</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman&theme=light">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman" alt="Git, GitHub, VS Code, npm, pnpm, Playwright, Jira et Postman" />
+      </picture>
+      <br/><br/>
+      <sub>Gestion de versions · Tests · Suivi de tickets</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Déploiement et systèmes</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino&theme=light">
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino" alt="Linux, Ubuntu, NGINX, Bash et Arduino" />
+      </picture>
+      <br/><br/>
+      <sub>VPS · NGINX · PM2 · Scripts shell · Systèmes embarqués</sub>
     </td>
   </tr>
 </table>
@@ -95,36 +122,36 @@ const matteo = {
 
 ---
 
-## 03 &nbsp;/&nbsp; Selected work
+## 03 &nbsp;/&nbsp; Réalisations
 
-A few projects, experiments, and ideas brought to life.
+Quelques projets, expérimentations et idées concrétisées.
 
-<!-- Replace these cards with real projects. Remove unused cards. -->
+<!-- Remplace le lien « REMPLACER_PAR_LE_DEPOT » par ton vrai dépôt, ou supprime la ligne du lien. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-PROJECT-27272A?style=flat-square&labelColor=18181B" alt="Project 01"/>
-      <h4>Project name</h4>
-      <p>A concise description of what it does, why it exists, and what makes it interesting.</p>
-      <sub><code>TypeScript</code> · <code>Nuxt</code></sub>
+      <img src="https://img.shields.io/badge/01-PROJET-27272A?style=flat-square&labelColor=18181B" alt="Projet 01"/>
+      <h4>Icare</h4>
+      <p>Projet B2B entre deux entreprises : application web, bots Discord, intégration d’API et paiement en ligne.</p>
+      <sub><code>TypeScript</code> · <code>Nuxt</code> · <code>PostgreSQL</code></sub>
       <br/><br/>
-      <a href="https://github.com/matteo0003/REPLACE_WITH_REPO"><b>View repository ↗</b></a>
+      <a href="https://icare-bot.fr"><b>Voir le site ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-PROJECT-27272A?style=flat-square&labelColor=18181B" alt="Project 02"/>
-      <h4>Project name</h4>
-      <p>An application, developer tool, or experiment worth sharing.</p>
-      <sub><code>Node.js</code> · <code>PostgreSQL</code></sub>
+      <img src="https://img.shields.io/badge/02-PROJET-27272A?style=flat-square&labelColor=18181B" alt="Projet 02"/>
+      <h4>Système de RoIP sur mesure</h4>
+      <p>Conception et réalisation d’un système de radio sur IP pour les besoins de communication de l’équipe d’OBI 1 pendant l’OBILan (stage, 2026).</p>
+      <sub><code>RoIP</code> · <code>Réseau</code></sub>
       <br/><br/>
-      <a href="https://github.com/matteo0003/REPLACE_WITH_REPO"><b>View repository ↗</b></a>
+      <a href="https://github.com/matteo0003/REMPLACER_PAR_LE_DEPOT"><b>Voir le dépôt ↗</b></a>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<a href="https://github.com/matteo0003?tab=repositories"><b>Explore all repositories →</b></a>
+<a href="https://github.com/matteo0003?tab=repositories"><b>Voir tous les dépôts →</b></a>
 
 </div>
 
@@ -132,52 +159,24 @@ A few projects, experiments, and ideas brought to life.
 
 ---
 
-## 04 &nbsp;/&nbsp; GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/matteo0003">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&hide_border=true&theme=transparent&title_color=FAFAFA&text_color=A1A1AA&icon_color=D4D4D8&ring_color=D4D4D8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&hide_border=true&theme=transparent&title_color=18181B&text_color=52525B&icon_color=3F3F46&ring_color=3F3F46">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=matteo0003&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/matteo0003">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo0003&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=FAFAFA&text_color=A1A1AA">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo0003&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=18181B&text_color=52525B">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteo0003&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most used languages" />
-  </picture>
-</a>
-
-<sub>Statistics are generated by an external service. Language distribution reflects repository contents, not overall proficiency.</sub>
-
-</div>
-
-<br/>
-
----
-
-## 05 &nbsp;/&nbsp; Principles
+## 04 &nbsp;/&nbsp; Principes
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <sub><b>01</b></sub>
-      <h4>Simplicity</h4>
-      Prefer clear solutions over unnecessary complexity.
+      <h4>Simplicité</h4>
+      Privilégier les solutions claires plutôt que la complexité inutile.
     </td>
     <td width="33%" valign="top">
       <sub><b>02</b></sub>
-      <h4>Craft</h4>
-      Pay attention to the details that make software better.
+      <h4>Rigueur</h4>
+      Soigner les détails qui font la qualité d’un logiciel.
     </td>
     <td width="33%" valign="top">
       <sub><b>03</b></sub>
-      <h4>Curiosity</h4>
-      Keep learning, experimenting, and improving.
+      <h4>Curiosité</h4>
+      Continuer à apprendre, expérimenter et progresser.
     </td>
   </tr>
 </table>
@@ -186,20 +185,20 @@ A few projects, experiments, and ideas brought to life.
 
 ---
 
-## 06 &nbsp;/&nbsp; Contact
+## 05 &nbsp;/&nbsp; Contact
 
-Have an interesting idea or want to talk about a project? Feel free to reach out.
+Une idée, un projet ou une opportunité ? N’hésitez pas à me contacter.
 
 <div align="center">
 
 <a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FAFAFA" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/REPLACE_WITH_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=maildotru&logoColor=FAFAFA" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/REMPLACER_PAR_TON_PSEUDO/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:TON_EMAIL@exemple.fr"><img src="https://img.shields.io/badge/E--mail-18181B?style=for-the-badge&logo=maildotru&logoColor=FAFAFA" alt="E-mail"/></a>
 
 <br/><br/>
 
-<sub>Designed with intention. Built with curiosity.</sub>
+<sub>Conçu avec soin. Construit avec curiosité.</sub>
 <br/>
-<sub>© Matteo · <a href="https://github.com/matteo0003">matteo0003</a></sub>
+<sub>© Mattéo · <a href="https://github.com/matteo0003">matteo0003</a></sub>
 
 </div>
