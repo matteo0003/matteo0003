@@ -4,13 +4,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-matteo0003-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Profil-Full--stack-18181B?style=for-the-badge&labelColor=27272A" alt="Full-stack"/>&nbsp;
-<img src="https://img.shields.io/badge/Focus-Web%20%C2%B7%20Bots%20Discord-18181B?style=for-the-badge&labelColor=27272A" alt="Web et bots Discord"/>
+<a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-matteo0003-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Profil-Full--stack-18181B?style=for-the-badge&amp;labelColor=27272A" alt="Full-stack" />&nbsp;
+<img src="https://img.shields.io/badge/Focus-Web%20%C2%B7%20Bots%20Discord%20%C2%B7%20DevOps-18181B?style=for-the-badge&amp;labelColor=27272A" alt="Web, bots Discord et DevOps" />
 
 <br/><br/>
 
-### Je conçois des applications web et des bots Discord.
+### Je conçois des applications web, des logiciels et des bots Discord.
 
 **Des interfaces soignées. Des systèmes fiables. Du code propre.**
 
@@ -28,16 +28,17 @@
 
 Je suis développeur full-stack, autodidacte depuis 7 ans : sites web, serveurs de RP FiveM, bots Discord et applications sur mesure. Diplômé d’une licence d’informatique à l’UBO (Brest), je cherche une première expérience en équipe.
 
-J’aime travailler sur toute la chaîne : interfaces, logique serveur, base de données et déploiement. Je fais attention à la simplicité, à la maintenabilité et aux détails qui rendent un logiciel agréable à utiliser.
+J’aime travailler sur toute la chaîne : **interfaces, logique serveur, bases de données, infrastructure et déploiement**. Je fais attention à la simplicité, à la maintenabilité et aux détails qui rendent un logiciel agréable à utiliser.
 
 ```ts
 const matteo = {
   role: "Développeur full-stack",
-  focus: ["Développement web", "Bots Discord", "Bases de données"],
-  niveau: {
-    avance: ["TypeScript", "Node.js", "Nuxt"],
-    intermediaire: ["PHP (Symfony, CodeIgniter)", "SQL"],
-  },
+  domaines: ["Web", "Applications desktop", "Bots Discord", "DevOps"],
+  langages: ["TypeScript", "JavaScript", "PHP", "Python", "C", "Lua"],
+  frontend: ["React", "Next.js", "Vue", "Nuxt", "Tailwind CSS"],
+  backend: ["Node.js", "Bun", "API REST"],
+  donnees: ["PostgreSQL", "MySQL", "MariaDB", "SQLite"],
+  infrastructure: ["Docker", "Dokploy", "NGINX", "Cloudflare", "Tailscale"],
   langues: ["Français", "Anglais (courant)", "Espagnol (intermédiaire)"],
   philosophie: "Construire avec un but. Rester simple.",
 } as const;
@@ -49,71 +50,133 @@ const matteo = {
 
 ## 02 &nbsp;/&nbsp; Stack technique
 
+Un aperçu des langages, frameworks, outils et environnements que j’utilise ou avec lesquels j’ai travaillé.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Front-end</h4>
+      <h4>Langages</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma&theme=light">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,vite,figma" alt="HTML, CSS, JavaScript, TypeScript, TailwindCSS, Vue, Nuxt, Vite et Figma" />
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,php,py,c,lua&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,php,py,c,lua&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,c,lua&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, C, Lua" />
+</picture>
       <br/><br/>
-      <sub>Interfaces · Composants · Nuxt UI · Vue Flow · Applications web</sub>
+      <sub><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>PHP</code> · <code>Python</code> · <code>C</code> · <code>Lua</code></sub>
+      <br/><br/>
+      <sub>Développement web · Scripts · Programmation système</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Back-end</h4>
+      <h4>Front-end &amp; UI</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua&theme=light">
-        <img src="https://skillicons.dev/icons?i=nodejs,bun,ts,js,php,symfony,codeigniter,lua" alt="Node.js, Bun, TypeScript, JavaScript, PHP, Symfony, CodeIgniter et Lua" />
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite,figma&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite,figma&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite,figma&amp;theme=dark" alt="React, Next.js, Vue.js, Nuxt, Tailwind CSS, shadcn/ui, Nuxt UI, Vue Flow, Vite, Figma" />
+</picture>
       <br/><br/>
-      <sub>API · Nitro · Logique applicative · Authentification · Scripts serveur</sub>
+      <sub><code>React</code> · <code>Next.js</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>Tailwind CSS</code> · <code>shadcn/ui</code> · <code>Nuxt UI</code> · <code>Vue Flow</code> · <code>Vite</code> · <code>Figma</code></sub>
+      <br/><br/>
+      <sub>Interfaces responsives · Design systems · Composants · UX</sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h4>Back-end &amp; API</h4>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,php,symfony,py&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,php,symfony,py&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,php,symfony,py&amp;theme=dark" alt="Node.js, Bun, AdonisJS, Nitro, Hono, Symfony, CodeIgniter" />
+</picture>
+      <br/><br/>
+      <sub><code>Node.js</code> · <code>Bun</code> · <code>AdonisJS</code> · <code>Nitro</code> · <code>Hono</code> · <code>Symfony</code> · <code>CodeIgniter</code></sub>
+      <br/><br/>
+      <sub>API REST · Authentification · Architecture serveur · Intégrations</sub>
+    </td>
     <td width="50%" valign="top">
       <h4>Bots Discord</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord,ts,nodejs,bun&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord,ts,nodejs,bun&theme=light">
-        <img src="https://skillicons.dev/icons?i=discord,ts,nodejs,bun" alt="Discord, TypeScript, Node.js et Bun" />
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord,discordjs,ts,nodejs,bun&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord,discordjs,ts,nodejs,bun&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=discord,discordjs,ts,nodejs,bun&amp;theme=dark" alt="Discord.js, Sapphire Framework, TypeScript, Node.js, Bun" />
+</picture>
       <br/><br/>
-      <sub>discord.js · Sapphire · Commandes, modération, intégrations</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Bases de données</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle&theme=light">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,drizzle" alt="PostgreSQL, MySQL, MariaDB, SQLite, Supabase et Drizzle ORM" />
-      </picture>
+      <sub><code>Discord.js</code> · <code>Sapphire Framework</code> · <code>TypeScript</code> · <code>Node.js</code> · <code>Bun</code></sub>
       <br/><br/>
-      <sub>SQL · PostgreSQL · MySQL · MariaDB · SQLite · Supabase · Drizzle ORM</sub>
+      <sub>Slash commands · Modération · Automatisations · Intégrations</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Outils et qualité</h4>
+      <h4>Bases de données &amp; ORM</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman&theme=light">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,playwright,jira,postman" alt="Git, GitHub, VS Code, npm, pnpm, Playwright, Jira et Postman" />
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma&amp;theme=dark" alt="PostgreSQL, MySQL, MariaDB, SQLite, Supabase, Prisma ORM, Drizzle ORM" />
+</picture>
       <br/><br/>
-      <sub>Gestion de versions · Tests · Suivi de tickets</sub>
+      <sub><code>PostgreSQL</code> · <code>MySQL</code> · <code>MariaDB</code> · <code>SQLite</code> · <code>Supabase</code> · <code>Prisma ORM</code> · <code>Drizzle ORM</code></sub>
+      <br/><br/>
+      <sub>SQL · Modélisation · Migrations · Transactions · Synchronisation</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Déploiement et systèmes</h4>
+      <h4>Infrastructure &amp; DevOps</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino&theme=light">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash,arduino" alt="Linux, Ubuntu, NGINX, Bash et Arduino" />
-      </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,cloudflare,ubuntu,linux,bash&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,nginx,cloudflare,ubuntu,linux,bash&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,ubuntu,linux,bash&amp;theme=dark" alt="Docker, Docker Compose, Dokploy, NGINX, Cloudflare, Tailscale, PM2, SSH" />
+</picture>
       <br/><br/>
-      <sub>VPS · NGINX · PM2 · Scripts shell · Systèmes embarqués</sub>
+      <sub><code>Docker</code> · <code>Docker Compose</code> · <code>Dokploy</code> · <code>NGINX</code> · <code>Cloudflare</code> · <code>Tailscale</code> · <code>PM2</code> · <code>SSH</code></sub>
+      <br/><br/>
+      <sub>VPS · Reverse proxy · Cloudflare Tunnel · Déploiement · Réseau</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Monitoring &amp; analytics</h4>
+      <img src="https://img.shields.io/badge/Umami-18181B?style=flat-square&amp;labelColor=27272A" alt="Umami" />&nbsp;<img src="https://img.shields.io/badge/Uptime%20Kuma-18181B?style=flat-square&amp;labelColor=27272A" alt="Uptime Kuma" />
+      <br/><br/>
+      <sub><code>Umami</code> · <code>Uptime Kuma</code></sub>
+      <br/><br/>
+      <sub>Statistiques web · Surveillance de disponibilité · Auto-hébergement</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Systèmes d’exploitation</h4>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&amp;theme=dark" alt="Windows, macOS, Linux, Ubuntu" />
+</picture>
+      <br/><br/>
+      <sub><code>Windows</code> · <code>macOS</code> · <code>Linux</code> · <code>Ubuntu</code></sub>
+      <br/><br/>
+      <sub>Administration · Terminal · Scripts shell · Environnements de développement</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Outils &amp; qualité</h4>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,pnpm,postman&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,pnpm,postman&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,npm,pnpm,postman&amp;theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, npm, pnpm, Prettier, ESLint, Playwright, Postman, Jira" />
+</picture>
+      <br/><br/>
+      <sub><code>Git</code> · <code>GitHub</code> · <code>GitHub Actions</code> · <code>VS Code</code> · <code>npm</code> · <code>pnpm</code> · <code>Prettier</code> · <code>ESLint</code> · <code>Playwright</code> · <code>Postman</code> · <code>Jira</code></sub>
+      <br/><br/>
+      <sub>Versioning · CI/CD · Linting · Formatage · Tests · Suivi de tickets</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Desktop &amp; embarqué</h4>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri,rust,c,arduino,raspberrypi&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tauri,rust,c,arduino,raspberrypi&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=tauri,rust,c,arduino,raspberrypi&amp;theme=dark" alt="Tauri 2, Rust, C, Arduino, Raspberry Pi" />
+</picture>
+      <br/><br/>
+      <sub><code>Tauri 2</code> · <code>Rust</code> · <code>C</code> · <code>Arduino</code> · <code>Raspberry Pi</code></sub>
+      <br/><br/>
+      <sub>Applications desktop · Communication réseau · Systèmes embarqués</sub>
     </td>
   </tr>
 </table>
@@ -126,25 +189,23 @@ const matteo = {
 
 Quelques projets, expérimentations et idées concrétisées.
 
-<!-- Remplace le lien « REMPLACER_PAR_LE_DEPOT » par ton vrai dépôt, ou supprime la ligne du lien. -->
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-PROJET-27272A?style=flat-square&labelColor=18181B" alt="Projet 01"/>
+      <img src="https://img.shields.io/badge/01-PROJET-27272A?style=flat-square&amp;labelColor=18181B" alt="Projet 01" />
       <h4>Icare</h4>
       <p>Projet B2B entre deux entreprises : application web, bots Discord, intégration d’API et paiement en ligne.</p>
-      <sub><code>TypeScript</code> · <code>Nuxt</code> · <code>PostgreSQL</code></sub>
+      <sub><code>TypeScript</code> · <code>Nuxt</code> · <code>PostgreSQL</code> · <code>Discord.js</code></sub>
       <br/><br/>
       <a href="https://icare-bot.fr"><b>Voir le site ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-PROJET-27272A?style=flat-square&labelColor=18181B" alt="Projet 02"/>
+      <img src="https://img.shields.io/badge/02-PROJET-27272A?style=flat-square&amp;labelColor=18181B" alt="Projet 02" />
       <h4>Système de RoIP sur mesure</h4>
       <p>Conception et réalisation d’un système de radio sur IP pour les besoins de communication de l’équipe d’OBI 1 pendant l’OBILan (stage, 2026).</p>
-      <sub><code>RoIP</code> · <code>Réseau</code></sub>
+      <sub><code>RoIP</code> · <code>Réseau</code> · <code>Python</code> · <code>Raspberry Pi</code></sub>
       <br/><br/>
-      <a href="https://github.com/matteo0003/REMPLACER_PAR_LE_DEPOT"><b>Voir le dépôt ↗</b></a>
+      <sub>Projet réalisé en stage · 2026</sub>
     </td>
   </tr>
 </table>
@@ -191,9 +252,9 @@ Une idée, un projet ou une opportunité ? N’hésitez pas à me contacter.
 
 <div align="center">
 
-<a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FAFAFA" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/REMPLACER_PAR_TON_PSEUDO/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:TON_EMAIL@exemple.fr"><img src="https://img.shields.io/badge/E--mail-18181B?style=for-the-badge&logo=maildotru&logoColor=FAFAFA" alt="E-mail"/></a>
+<a href="https://github.com/matteo0003"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=FAFAFA" alt="GitHub" /></a>
+
+<!-- Ajoute ici les liens LinkedIn et e-mail une fois les vraies coordonnées renseignées. -->
 
 <br/><br/>
 
