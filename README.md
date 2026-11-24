@@ -13,11 +13,17 @@
 **Des interfaces soignées. Des systèmes fiables. Du code propre.**
  
 <br/>
-[**À propos**](#01--à-propos) &nbsp;·&nbsp; [**Stack**](#02--stack-technique) &nbsp;·&nbsp; [**Réalisations**](#03--réalisations) &nbsp;·&nbsp; [**Principes**](#04--principes) &nbsp;·&nbsp; [**Contact**](#05--contact)
- 
+<p align="center">
+<a href="#a-propos"><b>À propos</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#realisations"><b>Réalisations</b></a> &nbsp;·&nbsp;
+<a href="#principes"><b>Principes</b></a> &nbsp;·&nbsp;
+<a href="#contact"><b>Contact</b></a>
+</p>
 </div>
 <br/>
----
+<hr/>
+<a id="a-propos"></a>
  
 ## 01 / À propos
  
@@ -41,7 +47,8 @@ const matteo = {
 ```
  
 <br/>
----
+<hr/>
+<a id="stack"></a>
  
 ## 02 / Stack technique
  
@@ -440,7 +447,8 @@ Un aperçu des langages, frameworks, outils et environnements que j’utilise ou
   </tr>
 </table>
 <br/>
----
+<hr/>
+<a id="realisations"></a>
  
 ## 03 / Réalisations
  
@@ -471,7 +479,8 @@ Quelques projets, expérimentations et idées concrétisées.
  
 </div>
 <br/>
----
+<hr/>
+<a id="principes"></a>
  
 ## 04 / Principes
  
@@ -495,7 +504,8 @@ Quelques projets, expérimentations et idées concrétisées.
   </tr>
 </table>
 <br/>
----
+<hr/>
+<a id="contact"></a>
  
 ## 05 / Contact
  
